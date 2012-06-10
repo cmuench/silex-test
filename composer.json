@@ -1,0 +1,16 @@
+{
+    "name": "N98/Test",
+    "description": "Test project with silex framework",
+    "require": {
+        "silex/silex": "dev-master",
+        "symfony/browser-kit": "dev-master",
+        "symfony/css-selector": "dev-master",
+        "twig/twig": ">=1.8,<2.0-dev"
+},
+    "authors": [
+        {
+            "name": "Christian Münch",
+            "email": "c.muench@netz98.de"
+        }
+    ]
+}
